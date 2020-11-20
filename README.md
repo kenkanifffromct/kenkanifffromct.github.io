@@ -57,7 +57,7 @@ If you followed tutorials, include links to those here as well.
 ## License
 
 
-[License Guidelines]/License.txt)
+[License Guidelines](/License.txt)
 
 MIT License
 Copyright(c) 2020, Kenneth Keller
