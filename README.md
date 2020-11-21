@@ -16,19 +16,15 @@ At a minimum, your project README needs a title and a short description explaini
 [**Clicking here**](https://github.com/kenkanifffromct/kenkanifffromct.github.io) will take you to the Github repository so you can view the files used in making the webpage.
 
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Contributing](#Contributing)
 
 
 ## Installation
