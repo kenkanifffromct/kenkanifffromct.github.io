@@ -43,8 +43,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 ![Places on the webpage for items listed in the navigation bar](https://github.com/kenkanifffromct/kenkanifffromct.github.io/blob/main/Assets/images/demo%20screenshot%202.png)
 
 
-## **Credits**
-(*click on their name to view their Github profile*)
+## **Credits** (*click on their name to view their Github profile*)
+
 
 [Jason Gibson](https://github.com/jgibsone4)
 
