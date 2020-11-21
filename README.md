@@ -12,7 +12,9 @@ Additional made changes include:
 "title" was changed.
 
 The "seo" span'd portion of "Horiseon" h1 element in the HTML was changed to black in CSS to make it more visible to the user.
- 
+
+
+ **Results:**
 
 [**Click here**](https://kenkanifffromct.github.io/) to open the finished webpage.
 
