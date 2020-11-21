@@ -30,7 +30,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 **Clicking on the items in the navigation bar will take you to their place on the web page**
 
-(Example: Clicking on "Search Engine Optimization" in the navigation bar will take you to the section that explains search engine optimization).
+(Example: Clicking on "Search Engine Optimization" in the navigation bar will take you to the section that explains it).
 
 ![Navigation Bar](https://github.com/kenkanifffromct/kenkanifffromct.github.io/blob/main/Assets/images/demo%20screenshot%201.png)
 
