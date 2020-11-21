@@ -47,6 +47,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 (*click on their name to view their Github profile*)
 
 [Jason Gibson](https://github.com/jgibsone4)
+
 [J.K. Royston](https://github.com/jxhnkndl)
 
 
