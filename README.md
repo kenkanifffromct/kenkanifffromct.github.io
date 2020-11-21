@@ -12,6 +12,7 @@ There's no one right way to structure a good README. There is one very wrong way
 At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
 
 [**Click here**](https://kenkanifffromct.github.io/) to open the finished webpage.
+
 [**Clicking here**](https://github.com/kenkanifffromct/kenkanifffromct.github.io) will take you to the Github repository so you can view the files used in making the webpage.
 
 
