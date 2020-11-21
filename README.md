@@ -64,5 +64,3 @@ Copyright(c) 2020, Kenneth Keller
 All Rights Reserved
 
 ---
-
-© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
