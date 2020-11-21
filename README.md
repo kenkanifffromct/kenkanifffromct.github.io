@@ -34,13 +34,12 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+**Clicking on the items in the navigation bar will take you to their place on the web page**
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+(Example: Clicking on "Search Engine Optimization" in the navigation bar will take you to the section that explains search engine optimization).
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+![Navigation Bar](Assets/images/demo screenshot 1.png)
+![Places of Navigation Bar items](Assets/images/demo screenshot 2.png)
 
 
 ## **Credits**
