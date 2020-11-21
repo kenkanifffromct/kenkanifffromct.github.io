@@ -165,7 +165,7 @@ footer {
 footer {
     font-size: 20px;
 }
-
+/* Added selectors for copyright info */
 p .copyright {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
