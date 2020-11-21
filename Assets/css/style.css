@@ -162,6 +162,11 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer {
     font-size: 20px;
+}
+
+.copyright {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
